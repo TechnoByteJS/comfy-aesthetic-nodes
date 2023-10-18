@@ -9,10 +9,11 @@ This node will output a predicted aesthetic score as a number and display it wit
 
 You can load a number of scoring models, such as:
 
-https://github.com/grexzen/SD-Chad/blob/main/chadscorer.pth
+https://github.com/grexzen/SD-Chad/raw/main/chadscorer.pth
 
 https://github.com/christophschuhmann/improved-aesthetic-predictor/raw/main/ava+logos-l14-linearMSE.pth
 
+Place the models in: `ComfyUI/models/aesthetic/`
 
 ## Image Reward
 
